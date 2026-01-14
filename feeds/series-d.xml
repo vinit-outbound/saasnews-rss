@@ -1,10 +1,1654 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <rss version="2.0">
-      <channel>
-        <title>SaaS News – SERIES-D</title>
-        <link>https://www.thesaasnews.com</link>
-        <description>Funding news for SERIES-D</description>
-        
-      </channel>
-    </rss>
+<rss version="2.0">
+  <channel>
+    <title>SaaS News – SERIES-D</title>
+    <link>https://www.thesaasnews.com</link>
+    <description>Funding news for SERIES-D</description>
     
+        <item>
+            <title><![CDATA[Onebrief Closes $200M Series D at $2.15B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/onebrief-closes-200m-series-d-at-2-15b-valuation</link>
+            <description><![CDATA[Onebrief, a Honolulu, HI–based AI-powered platform designed to transform operational planning and decision‑making workflows for the military, has closed a $200 million Series D at a $2.15 billion valuation. Investors The round was led by Battery Ventures and Sapphire Ventures, with participation from Salesforce Ventures, General Catalyst, and Insight Partners. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Torq Raises $140M Series D at $1.2B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/torq-raises-140m-series-d-at-1-2b-valuation</link>
+            <description><![CDATA[Torq, a New York–based AI security operations platform, has raised $140 million in a Series D funding round at a $1.2 billion valuation. Investors The round was led by Merlin Ventures, with participation from existing investors including Evolution Equity Partners, Notable Capital, Bessemer Venture Partners, Insight Partners, and Greenfield Partners. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[PolyAI Raises $86 Million Series D]]></title>
+            <link>https://www.thesaasnews.com/news/polyai-raises-86-million-series-d</link>
+            <description><![CDATA[PolyAI, a New York–based company specializing in enterprise conversational AI solutions, has raised $86 million in a Series D funding round. Investors The round was co-led by Georgian, Hedosophia, and Khosla Ventures, with participation from NVentures, British Business Bank, Citi Ventures, Squarepoint Ventures, Sands Capital, Zendesk Ventures, and Point72 Ventures. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[fal Raises $140 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/fal-raises-140-million-in-series-d</link>
+            <description><![CDATA[fal, a San Francisco, CA-based platform for real-time generative media, has raised $140 million in Series D funding. Investors The round was led by Sequoia, with major participation from Kleiner Perkins and new investments from Alkeon Capital and NVentures, alongside existing investors. Sequoia Capital is a venture capital firm headquartered …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Eon Raises $300 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/eon-raises-300-million-in-series-d</link>
+            <description><![CDATA[Eon, a New York–based cloud backup platform, has raised $300 million in Series D funding, bringing its total capital raised to $500 million. Investors The round was led by Elad Gil of Gil Capital, with participation from returning investors Sequoia Capital, Lightspeed Venture Partners, Greenoaks, and BOND, tripling Eon’s valuation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Federato Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/federato-raises-100-million-in-series-d</link>
+            <description><![CDATA[Federato, a San Francisco, CA–based AI-native insurance platform, has raised $100 million in Series D funding, bringing its total funding to over $180 million. Investors The round was led by Growth Equity at Goldman Sachs Alternatives, with participation from returning investors Emergence Capital, Caffeinated Capital, StepStone Group, and Pear VC. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cursor Secures $2.3B Series D at $29.3B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/cursor-secures-2-3b-series-d-at-29-3b-valuation</link>
+            <description><![CDATA[Cursor, a San Francisco, CA–based AI development platform, has raised $2.3 billion in Series D funding, bringing the company’s post-money valuation to $29.3 billion. Investors The round included continued support from Thrive, a16z, Accel, and DST, with new participation from Coatue, NVIDIA, and Google. Cursor Use of Funds The capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:38 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Metropolis Secures $1.6B in Financing]]></title>
+            <link>https://www.thesaasnews.com/news/metropolis-secures-1-6b-in-financing</link>
+            <description><![CDATA[Metropolis, a Los Angeles, CA-based company that applies artificial intelligence to real-world environments, has secured $1.6 billion in financing. Investors The round includes a $1.1 billion Term Loan B arranged by JPMorgan Chase Bank, N.A., and a $500 million Series D equity funding led by a fund managed by LionTree. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Habit Factory Raises ₩35 Billion in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/habit-factory-secures-35-billion-in-series-d</link>
+            <description><![CDATA[Habit Factory, a Seoul, South Korea-based AI-driven fintech company, has raised ₩35 billion in Series D funding. Investors The round was led by Z Venture Capital (ZVC) and Smilegate Investment, with participation from Industrial Bank of Korea, IBK Venture Investment, Kolon Investment, KB Investment, and Shinhan Venture Investment. Z Venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AppZen Raises $180 Million in Funding]]></title>
+            <link>https://www.thesaasnews.com/news/appzen-raises-180-million-in-funding</link>
+            <description><![CDATA[AppZen, a San Jose, CA–based AI-native platform for autonomous finance, has raised $180 million in Series D growth funding. Investors The round was led by Riverwood Capital, a venture capital firm that invests in high-growth companies in the technology and technology-enabled industries. The firm focuses on established businesses with proven …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Framer Raises $100M in Series D at $2B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/framer-raises-100m-in-series-d-at-2b-valuation</link>
+            <description><![CDATA[Framer, an Amsterdam- and San Francisco-based professional website design platform, has raised $100 million in Series D funding at a $2 billion valuation. Investors The round was led by existing investors Meritech and Atomico. Meritech is a prominent late-stage venture capital firm based in Palo Alto, California. Founded in 1999, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Capacity Raises Over $92.6 Million in Funding]]></title>
+            <link>https://www.thesaasnews.com/news/capacity-raises-over-92-6-million-in-funding</link>
+            <description><![CDATA[Capacity, a St. Louis, Missouri-based AI-powered support automation platform for contact centers, has raised over $92.6 million in funding, bringing its total raised to more than $155 million. Investors The round includes $50 million in debt financing from Chicago Atlantic and a $42.6 million Series D equity round. The Series …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Blue J Raises $122 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/blue-j-raises-122-million-in-series-d</link>
+            <description><![CDATA[Blue J, a Toronto, Canada-based generative AI tax research platform, has raised $122 million in a Series D funding round. Investors The round was led by Oak HC/FT and Sapphire Ventures, with participation from Intrepid Growth Partners, Ten Coves Capital, and CPA.com. Oak HC/FT is a venture and growth equity …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Carbyne Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/carbyne-raises-100-million-in-series-d</link>
+            <description><![CDATA[Carbyne, a New York-based provider of cloud-native emergency communications and response solutions, has raised $100 million in Series D funding, bringing its total funding to $250 million to date. Investors The round included participation from AT&T Ventures, Axon Enterprise, Cox Enterprises, Global Medical Response, Hanaco Growth, Hercules Capital, RCM Private …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:40 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vanta Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/vanta-raises-150-million-in-series-d</link>
+            <description><![CDATA[Vanta, a San Francisco, CA-based AI-powered trust management platform, has raised $150 million in a Series D funding round. Investors The round was led by Wellington Management, with participation from Goldman Sachs Alternatives, Sequoia, J.P. Morgan, Craft Ventures, Y Combinator, Atlassian Ventures, and CrowdStrike Ventures. Wellington Management is a privately …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ashby Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/ashby-raises-50-million-in-series-d</link>
+            <description><![CDATA[Ashby, a San Francisco, CA-based all-in-one recruiting platform, has raised $50 million in a Series D funding round. Investors The round was led by Mark McLaughlin at Alkeon Capital, with co-lead participation from Lachy Groom and support from F-Prime, Elad Gil, Gaingels, and other existing investors. Alkeon Capital is a …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Boulevard Raises $80 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/boulevard-raises-80-million-in-series-d</link>
+            <description><![CDATA[Boulevard, a Los Angeles, CA-based client experience platform for appointment-based self-care businesses, has raised $80 million in Series D funding. Investors The round was led by JMI Equity, with continued participation from Index Ventures and VMG Partners. Founded in 1992, JMI Equity is a growth equity firm focused on investing …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Virtru Raises $50M at a $500M Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/virtru-raises-50m-at-a-500m-valuation</link>
+            <description><![CDATA[Virtru, a Washington, D.C.-based data-centric security company, has raised $50 million in a Series D funding round, doubling its valuation to $500 million. Investors The round was led by ICONIQ, with participation from Bessemer Venture Partners, Foundry, and The Chertoff Group. ICONIQ Capital is a San Francisco-based investment firm established …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[MaintainX Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/maintainx-raises-150-million-in-series-d</link>
+            <description><![CDATA[MaintainX, a San Francisco, CA-based maintenance and asset management platform, has raised $150 million in Series D funding, bringing its total raised to $254 million, reaching a new valuation of $2.5 billion. Investors The round included key investors such as Bessemer Venture Partners, Bain Capital Ventures, D. E. Shaw Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Clearspeed Raises $60 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/clearspeed-raises-60-million-in-series-d</link>
+            <description><![CDATA[Clearspeed, a San Diego, CA-based voice-based risk assessment technology company, has raised $60 million in Series D funding. Investors The round was led by Align Private Capital, with additional participation from IronGate Capital Advisors, Bravo Victor Venture Capital, KBW Ventures, and multi-round investor General David H. Petraeus. Align Private Capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Snorkel AI Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/snorkel-ai-raises-100-million-in-series-d</link>
+            <description><![CDATA[Snorkel AI, a Redwood City, CA-based AI data development platform provider, has raised $100 million in Series D funding. Investors The round was led by Addition, with participation from Prosperity 7 Ventures, Greylock, Lightspeed, BNY, and QBE Ventures. Addition is a venture capital firm focused on early- and growth-stage technology …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:42 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Buildots Raises $45 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/buildots-raises-45-million-in-series-d</link>
+            <description><![CDATA[Buildots, a Tel Aviv, Israel-based construction technology company, has raised $45 million in Series D funding. Investors The round was led by Qumra Capital, with participation from OG Venture Partners, TLV Partners, Poalim Equity, Future Energy Ventures, and Viola Growth. Buildots Use of Funds The company will use the funds …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Impact Analytics Secures Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/impact-analytics-secures-series-d-funding</link>
+            <description><![CDATA[Impact Analytics, a New York-based provider of an end-to-end platform for pricing, merchandising, and supply chain management, has secured Series D funding. Investors The round was led by Blue Cloud Ventures, with participation from existing investors Sageview Capital and Vistara Growth. Blue Cloud Ventures is a growth-stage venture capital firm …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Veza Raises $108 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/veza-raises-108-million-in-series-d</link>
+            <description><![CDATA[Veza, a Los Gatos, CA-based identity security company, has raised $108 million in Series D funding at an $808 million valuation. Investors The round was led by New Enterprise Associates (NEA), with strong participation from Atlassian Ventures, Workday Ventures, and Snowflake Ventures. All existing investors joined the round, including Accel, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Astronomer Raises $93 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/astronomer-raises-93-million-in-series-d</link>
+            <description><![CDATA[Astronomer, a New York-based company that provides a unified DataOps platform, has raised $93 million in Series D funding. Investors The round was led by Bain Capital Ventures, with participation from Salesforce Ventures, Insight, Meritech, Venrock, and an expected investment from Bosch Ventures. Bain Capital Ventures is a venture capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Chainguard Raises $356 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/chainguard-raises-356-million-in-series-d</link>
+            <description><![CDATA[Chainguard, a Kirkland, WA-based cybersecurity company, has raised $356 million in Series D funding at a $3.5 billion valuation. Investors The round was co-led by Kleiner Perkins and IVP, with participation from Salesforce Ventures, Datadog Ventures, and all existing investors, bringing Chainguard's total funding to $612 million. Kleiner Perkins is …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Redpanda Raises $100M in Series D at $1B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/redpanda-raises-100m-in-series-d-at-1b-valuation</link>
+            <description><![CDATA[Redpanda, a San Francisco, CA-based real-time data platform, has secured $100 million in Series D funding at a $1 billion valuation. Investors The round was led by GV, with participation from Lightspeed Venture Partners, bringing Redpanda’s total funding to $265 million. Founded in 2009, GV is Alphabet's venture capital arm …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Runway Raises $308 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/runway-raises-308-million-in-series-d</link>
+            <description><![CDATA[Runway, a New York-based startup developing a suite of generative AI models for media production, has raised $308 million in Series D funding. Investors General Atlantic led the Series D funding round, with participation from Fidelity Management & Research Company, Baillie Gifford, Nvidia, SoftBank, and others. This latest funding brings …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:43 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cyberhaven Raises $100M in Series D at a $1B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/cyberhaven-raises-100m-in-series-d-at-a-1b-valuation</link>
+            <description><![CDATA[Cyberhaven, a Palo Alto, CA-based AI-powered data security company, has raised $100 million in Series D funding, reaching a $1 billion valuation. Investors The round was led by StepStone Group, with participation from Schroders and Industry Ventures. This latest investment brings Cyberhaven's total funding to $250 million. StepStone Group, founded …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fleetio Raises Over $450 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/fleetio-raises-over-450-million-in-series-d</link>
+            <description><![CDATA[Fleetio, a Birmingham, Alabama-based fleet management and maintenance software company, has raised over $450 million in Series D funding. The company also announced the acquisition of Auto Integrate, a maintenance authorization platform, a combined business valued at $1.5B+. Investors The funding round was co-led by Elephant and Growth Equity at …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pentera Raises $60 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/pentera-raises-60-million-in-series-d</link>
+            <description><![CDATA[Pentera, a Boston, MA-based company specializing in automated security validation solutions, has raised $60 million in Series D funding. Investors The round was led by Evolution Equity Partners, with participation from Farallon Capital Management, bringing Pentera’s total funding to $250 million. Evolution Equity Partners is an international venture capital firm …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Abridge Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/abridge-raises-250-million-in-series-d</link>
+            <description><![CDATA[Abridge, a Pittsburgh, PA-based generative AI platform for clinical conversations, has raised $250 million in Series D funding. Investors The round was co-led by Elad Gil and IVP, with participation from Bessemer Venture Partners, California Health Care Foundation, CapitalG, CVS Health Ventures, K. Ventures, Lightspeed Venture Partners, NVentures (NVIDIA’s venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Synthesia Raises $180 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/synthesia-raises-180-million-in-series-d</link>
+            <description><![CDATA[Synthesia, a London, UK-based AI-powered video communications platform provider, has raised $180 million in Series D funding. Investors The round was led by NEA, with participation from existing investors including GV, MMC Ventures, and FirstMark, as well as new backers such as WiL (World Innovation Lab), Atlassian Ventures, and PSP …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Instabase Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/instabase-raises-100-million-in-series-d</link>
+            <description><![CDATA[Instabase, a San Francisco, California-based applied AI company specializing in unstructured data management, has raised $100 million in Series D funding. Investors The round was led by QIA, with participation from existing investors Greylock Partners, NEA, Andreessen Horowitz, and Index Ventures. Qatar Investment Authority (QIA) is the sovereign wealth fund …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Netradyne Raises $90 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/netradyne-raises-90-million-in-series-d</link>
+            <description><![CDATA[Netradyne, a San Diego, CA-based SaaS provider specializing in AI and edge computing, has raised $90 million in Series D funding. Investors The round was led by Point72 Private Investments, with additional participation from Qualcomm Ventures and Pavilion Capital. Point72 Private Investments is an institutional platform comprising Point72 Ventures, a …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:45 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Qventus Raises $105 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/qventus-raises-105-million-in-series-d</link>
+            <description><![CDATA[Qventus, a Mountain View, CA-based provider of an AI-based care automation platform, has raised $105 million in Series D funding. Investors The round was led by KKR, with participation from Bessemer Venture Partners and strategic health system investors, including Northwestern Medicine, HonorHealth, and Allina Health. KKR is a global investment …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AMP Raises $91 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/amp-raises-91-million-in-series-d</link>
+            <description><![CDATA[AMP, a Denver, Colorado-based company specializing in AI-driven sortation technology for the waste and recycling industry, has raised $91 million in Series D funding. Investors The round was led by Congruent Ventures, with participation from Sequoia Capital, XN, Blue Earth Capital, Liberty Mutual Investments, CalSTRS, Wellington Management, Range Ventures, and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zopper Raises $25 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/zopper-raises-25-million-in-series-d</link>
+            <description><![CDATA[Zopper, a Noida, India-based insurance technology company, has raised $25 million in Series D funding. Investors The round was led by Elevation Capital and Dharana Capital, with participation from existing investor Blume Ventures, as well as backing from Creaegis, Bessemer Venture Partners, and ICICI Venture. Elevation Capital is a venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cyera Raises $300 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/cyera-raises-300-million-in-series-d</link>
+            <description><![CDATA[Cyera, a New York-based data security company, has raised $300 million in a Series D funding round, bringing its total funding to $760 million. Investors The round was led by Accel and Sapphire Ventures, with participation from Sequoia, Redpoint, Coatue, and Georgian, bringing Cyera's valuation to $3 billion. Accel is …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cresta Raises $125 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/cresta-raises-125-million-in-series-d</link>
+            <description><![CDATA[Cresta, a Palo Alto, CA-based provider of an end-to-end generative AI platform for contact centers, has raised $125 million in Series D funding. Investors The round was led by new investors World Innovation Lab (WiL) and QIA, with participation from Accenture, EnvisionX Capital, LG Technology Ventures, Qualcomm Ventures, and Workday …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tourlane Raises €25 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/tourlane-raises-25-million-in-series-d</link>
+            <description><![CDATA[Tourlane, a Berlin, Germany-based provider of an AI-driven platform for personalized multi-stop travel, has secured €25 million in Series D funding. Investors The round was led by Sequoia Capital, with additional investments from Target Global, Jared Smith (Qualtrics co-founder), and HV Capital. Headquartered in Menlo Park, California, Sequoia Capital is …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Armis Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/armis-raises-200-million-in-series-d</link>
+            <description><![CDATA[Armis, a San Francisco, CA-based cyber exposure management and security company, has raised $200 million in Series D funding, at a $4.2 billion valuation. Investors The round was led by General Catalyst and Alkeon Capital, with participation from Brookfield Technology Partners and Georgian. General Catalyst: A global investment and transformation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:47 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Globality Raises $47 Million in Funding]]></title>
+            <link>https://www.thesaasnews.com/news/globality-raises-47-million-in-funding</link>
+            <description><![CDATA[Globality, a Palo Alto, CA-based provider of AI-driven sourcing and procurement solutions, has raised $47 million in Series D-1 and D-2 preferred stock offerings. Investors The funding round, backed by existing shareholders and new investors like Rollins Capital, brings the total capital raised by the company to $356 million. Globality …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zip Raises $190 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/zip-raises-190-million-in-series-d</link>
+            <description><![CDATA[Zip, a San Francisco, CA-based AI-powered procurement orchestration platform, has raised $190 million in Series D funding, bringing its valuation to $2.2 billion. Investors The round was led by BOND, with participation from DST Global, Adams Street, Alkeon, Y Combinator, and CRV. BOND is a global technology investment firm that …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Suki Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/suki-raises-70-million-in-series-d</link>
+            <description><![CDATA[Suki, a Redwood City, CA-based provider of artificial intelligence (AI) solutions for the healthcare sector, has raised $70 million in Series D funding, bringing its total raised to $165 million. Investors The round was led by Hedosophia, with participation from Venrock, March Capital, Flare Capital, Breyer Capital, and inHealth Ventures. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[UJET Raises $76 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/ujet-raises-76-million-in-series-d</link>
+            <description><![CDATA[UJET, a San Francisco, CA-based provider of AI-powered cloud contact center solutions, has raised $76 million in Series D funding. Investors The round was led by Sapphire Ventures, with participation from KeyCorp, IonPacific, and existing investors like GV, Kleiner Perkins, and Ericsson Ventures. Sapphire is a global venture capital firm …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Qure.ai Secures $65 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/qure-ai-secures-65-million-in-series-d</link>
+            <description><![CDATA[Qure.ai, an India-based healthtech company specializing in AI-driven solutions for early disease detection, has secured $65 million in Series D funding. Investors The round was led by Lightspeed Venture Partners and 360 ONE Asset Management. Merck’s Global Health Innovation Fund, Kae Capital, and existing investors, including Novo Holdings participated. Lightspeed …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Oyster Raises $59 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/oyster-raises-59-million-in-series-d</link>
+            <description><![CDATA[Oyster, a San Francisco, CA-based global employment solution to employ, pay, and care for distributed teams, has raised $59 million in Series D funding at a $1.2 billion valuation. Investors The round was led by Silver Lake Waterman, with participation from existing investors Emergence Capital, Stripes, Georgian, G2 Venture Partners, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[EliseAI Secures $75 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/eliseai-secures-75-million-in-series-d</link>
+            <description><![CDATA[EliseAI, a New York-based technology company specializing in conversational AI platforms for the housing industry, has secured $75 million in Series D funding at a $1 billion valuation. Investors The funding round was led by Sapphire Ventures, with participation from existing investors including Navitas Capital, Point72 Private Investments, DivcoWest Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:48 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Levitate Secures $15 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/levitate-secures-15-million-in-series-d</link>
+            <description><![CDATA[Levitate, a Raleigh, NC-based SaaS 'Happiness Platform' for relationship-based businesses, has secured $15 million in Series D funding. The company also announced the general availability of a suite of tools for helping businesses manage their online presence. Newly launched features include website design, Google Review management, and blog content creation, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Abnormal Security Closes $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/abnormal-security-closes-250-million-in-series-d</link>
+            <description><![CDATA[Abnormal Security, a San Francisco, CA-based cybersecurity company specializing in AI-native human behavior security, has closed $250 million in Series D funding at a $5.1 billion valuation. Investors The round was led by Wellington Management, with participation from Greylock Partners, Menlo Ventures, Insight Partners, and CrowdStrike Falcon Fund. This brings …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Seeq Closes $50 Million in Series D Round]]></title>
+            <link>https://www.thesaasnews.com/news/seeq-closes-50-million-in-series-d-round</link>
+            <description><![CDATA[Seeq, a Seattle, Washington-based industrial analytics, AI, and monitoring company, has closed a $50 million Series D funding round, bringing its total funding to approximately $165 million. Investors The round was led by Sixth Street Growth, a leading global investment firm, with participation from existing investors including Insight Partners, Altira …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cohere Raises $500 Million at $5.5B Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/cohere-raises-500-million-at-5-5-b-valuation</link>
+            <description><![CDATA[Cohere, a Toronto, Canada-based generative AI startup, has raised $500 million in Series D funding, at a $5.5 billion valuation. Investors The investment came from investors such as Cisco, AMD, and Fujitsu. This round also included participation from Canadian pension investment manager PSP Investments and Canada’s export credit agency EDC, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Huma Raises Over $80 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/huma-raises-over-80-million-in-series-d</link>
+            <description><![CDATA[Huma, a London and New York-based global healthcare AI company, has raised over $80 million in Series D funding, bringing its total funding to $300 million. The company also announced the launch of its Huma Cloud Platform. The platform offers no-code configuration for regulated disease management tools across therapeutic areas, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Formation Bio Raises $372 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/formation-bio-raises-372-million-in-series-d</link>
+            <description><![CDATA[Formation Bio, a New York-based tech-driven and AI-native pharma company, raised $372 million in Series D financing. Investors The funding round was led by Andreessen Horowitz (a16z), with participation from Sanofi and existing investors such as Sequoia, Thrive Capital, Emerson Collective, and Lachy Groom. New investors, including SV Angel Growth …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Huntress Secures $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/huntress-secures-150-million-in-series-d</link>
+            <description><![CDATA[Huntress, a Columbia, MD-based cybersecurity company for small businesses and the service providers that support them, secured a $150 million Series D funding round. Investors The round was led by Kleiner Perkins, Meritech Capital, and existing investor Sapphire Ventures. Founded in 1972, Kleiner Perkins is a venture capital firm based …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:50 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ramp Raises $150 Million in Series D-2 Round]]></title>
+            <link>https://www.thesaasnews.com/news/ramp-raises-150-million-in-series-d-2-round</link>
+            <description><![CDATA[Ramp, a New York-based spend management startup, has raised $150 million in Series D-2 funding at a post-money valuation of $7.65 billion. Investors Khosla Ventures and Founders Fund co-led the round. Other participants included Sequoia Capital, Greylock, 8VC, Thrive Capital, General Catalyst, Sands Capital, D1 Capital, Lux Capital, Iconiq Capital, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pigment Raises $145 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/pigment-raises-145-million-in-series-d</link>
+            <description><![CDATA[Pigment, a Paris, France-based business planning platform startup, has raised $145 million in Series D funding. Investors The round was led by ICONIQ Growth, with participation from Sandberg Bernthal Venture Partners, as well as several other existing investors including IVP, Meritech, Greenoaks, and Felix Capital. ICONIQ Growth is a venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Coro Secures $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/coro-secures-100-million-in-series-d</link>
+            <description><![CDATA[Coro, a New York-based cybersecurity platform specifically designed for small and medium-sized enterprises (SMEs), has secured $100 million in Series D funding. Investors The round was led by One Peak, with participation from existing investors Energy Impact Partners and Balderton Capital. This funding round brings Coro's total funds raised to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Mews Secures $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/mews-secures-110-million-in-series-d</link>
+            <description><![CDATA[Mews, a Prague, Czech Republic-based startup specializing in hotel IT management tools, has secured $110 million in Series D funding, valuing the company at $1.2 billion. SaaS Investors The round was led by Kinnevik, with participation from Kinnevik, Revaia, Goldman Sachs Alternatives, Notion Capital, and LGVP. Founded in 1936, Kinnevik …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Capillary Technologies Raises $95M in Series D Extension]]></title>
+            <link>https://www.thesaasnews.com/news/capillary-technologies-raises-95m-in-series-d-extension</link>
+            <description><![CDATA[Capillary Technologies, a Singapore-based SaaS startup, raised $95 million in funding, bringing its Series D funding round to $140 million. The company raised $45 million in the initial Series D round in June last year. SaaS Investors The round was led by Avataar Venture Partners. Other investors include Pantheon Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Glean Secures Over $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/glean-secures-over-200-million-in-series-d</link>
+            <description><![CDATA[Glean, a Palo, Alto, CA-based AI-driven work assistant, has secured over $200 million in Series D funding, reaching a valuation of $2.2 billion. SaaS Investors Led by Kleiner Perkins and Lightspeed Venture Partners, with support from various investors including Sequoia Capital and Coatue. Founded in 1972, Kleiner Perkins is a …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Clumio Secures $75 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/clumio-secures-75-million-in-series-d</link>
+            <description><![CDATA[Clumio, a Santa Clara, CA-based data backup and recovery provider for companies using the public cloud, has secured $75 million in Series D funding. SaaS Investors The round was led by Sutter Hill Ventures, with participation from Index Ventures, Altimeter Capital, and NewView Capital. Founded in 1962, Sutter Hill Ventures …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:51 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Silverfort Raises $116 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/silverfort-raises-116-million-in-series-d</link>
+            <description><![CDATA[Silverfort, a Tel Aviv, Israel- and Boston, MA-based identity protection company, has raised $116 million in Series D funding, bringing its total amount raised to $222 million. SaaS Investors The round was led by Brighton Park Capital (BPC), with participation from existing investors including Acrew Capital, Greenfield Partners, Citi Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vestwell Raises $125 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/vestwell-raises-125-million-in-series-d</link>
+            <description><![CDATA[Vestwell, a Manhattan, New York-based company providing infrastructure for employers to power workplace savings programs, has raised $125 million in funding. SaaS Investors The round was led by Lightspeed Venture Partners. Existing investors Fin Capital, Primary Venture Partners, and FinTech Collective participated, along with new investors Blue Owl and HarbourVest. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Meniga Raises €15 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/meniga-raises-15-million-in-series-d</link>
+            <description><![CDATA[Meniga, a London, UK-based personal financial management provider, raised €15 million in Series D funding, bringing its total raised of €55 million in funding to date. SaaS Investors The investment round includes major European banks Groupe BPCE and Crédito Agrícola, along with Icelandic VC group Omega ehf. Groupe BPCE is …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Enable Raises $120 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/enable-raises-120-million-in-series-d</link>
+            <description><![CDATA[Enable, a San Francisco, CA-based startup that sells rebate software to trading partners, raised $120 million in a Series D funding round that values the company at $1 billion pre-money. SaaS Investors The funding round was led by Lightspeed Venture Partners, with participation from all the previous lead investors including …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Stampli Raises $61 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/stampli-raises-61-million-in-series-d</link>
+            <description><![CDATA[Stampli, a Mountain View, CA-based AI-powered accounts payable automation, raised $61 million in Series D funding, bringing its total amount raised to over $148 million. SaaS Investors The round was led by funds managed by Blackstone, with participation from existing investors Insight Partners, SignalFire, Bloomberg Beta, and NextWorld Capital. Blackstone …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Perfios Raises $229 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/perfios-raises-229-million-in-series-d</link>
+            <description><![CDATA[Perfios, a Bangalore, India-based SaaS Business-to-Business (B2B) software provider for financial institutions, raised $229 million in its Series D funding round SaaS Investors This funding was secured from private equity firm Kedaara Capital through a combination of primary fundraising and a secondary sale of shares. Kedaara Capital is an operationally …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Apollo.io Secures $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/apollo-io-secures-100-million-in-series-d</link>
+            <description><![CDATA[Apollo.io, a San Francisco, CA-based provider of a go-to-market (GTM) solution for sales and marketing teams, raised $100 million in Series D funding, bringing its total funding to approximately $250 million while nearly doubling the valuation of the company at $1.6 billion. SaaS Investors The funding round was led by …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:53 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Hugging Face Raises $235 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/hugging-face-raises-235-million-in-series-d</link>
+            <description><![CDATA[Hugging Face, a Brooklyn, New York-based AI startup, raised $235 million at a valuation of $4.5 billion in Series D funding. The round involved significant participation from industry giants including Google, Amazon, Nvidia, Intel, AMD, Qualcomm, IBM, Salesforce, and Sound Ventures. With this latest investment, Hugging Face plans to “double …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Simon Data Secures $54 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/simon-data-secures-54-million-in-series-d</link>
+            <description><![CDATA[Simon Data, a New York-based customer data platform (CDP), secured $54 million in a Series D funding round led by Macquarie Capital. Several existing investors, including Polaris, .406, and F-Prime, also participated in the round. The Series D funding follows the recent launch of Simon Data's innovative tool called Connected …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Flywheel Raises $54 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/flywheel-raises-54-million-in-series-d</link>
+            <description><![CDATA[Flywheel, a Minneapolis, Minnesota-based medical imaging data and AI platform, has raised $54 million in a Series D funding round co-led by Novalis LifeSciences LLC and NVentures, the venture capital arm of NVIDIA. Microsoft also participated in the round, alongside existing investors and insiders such as Invenshure, 8VC, Beringea, Hewlett …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Primer Technologies Closes $69 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/primer-technologies-closes-69-million-in-series-d</link>
+            <description><![CDATA[Primer Technologies, a San Francisco, CA-based AI/ML technology firm specializing in AI-powered data analysis, has announced a Series D funding round with a first close of $69 million to accelerate the delivery of trusted AI solutions for the U.S. Government and commercial customers. The round was led by Addition, with …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Measurabl Closes $93 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/measurabl-closes-93-million-in-series-d</link>
+            <description><![CDATA[Measurabl, a San Diego, CA-based ESG technology platform for real estate, has successfully closed a Series D funding round, raising $93 million in venture capital. The oversubscribed round was co-led by Energy Impact Partners and Sway Ventures. Moderne Ventures, WVV, Suffolk Construction, Broadscale, Camber Creek, Salesforce Ventures, Building Ventures, Constellation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Capillary Technologies Secures $45 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/capillary-technologies-secures-45-million-in-series-d</link>
+            <description><![CDATA[Capillary Technologies, an India-based SaaS startup specializing in loyalty management and customer engagement solutions, secured $45 million in a Series D funding round. The funding consists of $40 million in equity and approximately $5-$7 million in debt. With this latest investment, Capillary Technologies has raised nearly $150 million in capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nymbus Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/nymbus-raises-70-million-in-series-d</link>
+            <description><![CDATA[Nymbus, a Jacksonville, Fla-based provider of cutting-edge financial technology solutions, raised $70 million in Series D funding. The round was led by global software investor Insight Partners and bolstered by additional investments from Nymbus clients ConnectOne Bank and PeoplesBank, alongside financial technology investors, The Banc Funds Company and Mendon Venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:55 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nymbus Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/nymbus-raises-70-million-in-series-d</link>
+            <description><![CDATA[Nymbus, a Jacksonville, Fla-based provider of cutting-edge financial technology solutions, raised $70 million in Series D funding. The round was led by global software investor Insight Partners and bolstered by additional investments from Nymbus clients ConnectOne Bank and PeoplesBank, alongside financial technology investors, The Banc Funds Company and Mendon Venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Builder.ai Secures $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/builder-ai-secures-250-million-in-series-d</link>
+            <description><![CDATA[Builder.ai, a London, UK-based AI-powered composable software platform, announced that it has secured over $250 million in Series D funding, this latest investment brings the total amount raised by the company to over $450 million. Led by Qatar Investment Authority (QIA), with participation from existing and new investors including Iconiq …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Instawork Raises $60 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/instawork-raises-60-million-in-series-d</link>
+            <description><![CDATA[Instawork, a San Francisco, CA-based staffing startup that connects hourly workers with businesses that need to fill shifts, has announced a successful $60 million Series D funding round, bringing its total raised to $160 million. The round was led by venture capital fund TCV, with participation from new investor 9Yards …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[UVeye Secures $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/uveye-secures-100-million-in-series-d</link>
+            <description><![CDATA[UVeye, a Teaneck, New Jersey, and in Tel Aviv, Israel-based pioneer in the development of automated vehicle-inspection systems for the auto industry, secured $100 million in Series D funding to support major new sales and manufacturing initiatives in North America. The round was led by Hanaco VC, a venture-capital firm, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Simpplr Secures $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/simpplr-secures-70-million-in-series-d</link>
+            <description><![CDATA[Simpplr, a Redwood City, CA-based company that provides an AI-powered employee experience platform, secured $70 million in Series D funding, bringing its total funding to over $131 million to date. The round was led by Sapphire Ventures, with participation from existing investor Norwest Venture Partners. Additional investors include Tola Capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[3D Cloud by Marxent Raises $7.5 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/3d-cloud-by-marxent-raises-7-5-million-in-series-d</link>
+            <description><![CDATA[3D Cloud by Marxent, a St. Petersburg, FL-based 3D product experience platform for furniture and home improvement retailers, raised $7.5 million in Series D funding. The round was led by Tampa-based entrepreneur and board member Arnie Bellini with additional investment from Lee Arnold, Executive Chair of Colliers International Florida and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Odeko Raises $53 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/odeko-raises-53-million-in-series-d</link>
+            <description><![CDATA[Odeko, a New York-based all-in-one operations partner for independent coffee shops, cafés, and other shops, announced that it raised $53 million in Series D financing, bringing its total equity investment to $177 million. The round was led by existing investor B Capital and includes continued support from GGV Capital and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:57 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[ID.me Raises $132 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/id-me-raises-132-million-in-series-d</link>
+            <description><![CDATA[ID.me, a McLean, VA-based identity company that empowers consumers to easily access online services and benefits while controlling their personal data, also announced that it has raised $132 million in Series D funding. The round was led by Viking Global Investors, with participation from CapitalG, Morgan Stanley Counterpoint, FTV Capital, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AlphaSense Raises Additional $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/alphasense-raises-additional-100-million-in-series-d</link>
+            <description><![CDATA[AlphaSense, a New York-based market intelligence and search platform, announced $100 million in addition to its $225 million in Series D funding at a $1.8 billion valuation. The round was led by CapitalG, Alphabet's independent growth fund along with existing investors such as Viking Global Investors and Goldman Sachs Asset …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Honeycomb Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/honeycomb-raises-50-million-in-series-d</link>
+            <description><![CDATA[Honeycomb, a San Francisco, CA-based observability platform used by high-performing engineering teams to examine cloud application behavior, announced a $50 million Series D funding. The round was led by Headline, with participation from other existing investors, including Insight Partners, Scale Venture Partners, NextWorld Capital, Storm Ventures, and Industry Ventures. This …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wiz Raises $300 Million in Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/wiz-raises-300-million-in-series-d-funding</link>
+            <description><![CDATA[Wiz, a New York-based cloud security company, raised $300 million in Series D funding at a $10 billion valuation. The round was led by Lightspeed Venture Partners and existing investors Greenoaks Capital Partners and Index Ventures. The company plans to add additional headcount to its existing 650 employees in the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Clearsense Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/clearsense-raises-50-million-in-series-d</link>
+            <description><![CDATA[Clearsense, a Jacksonville, FL-based PaaS company that partners with healthcare organizations to increase data value, governance, and transparency, raised $50 million in Series D funding. The round was led by HealthQuest Capital, with participation from existing investors Health Catalyst Capital and UPMC Enterprises. With 2023 poised to be a substantial …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Jobber Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/jobber-raises-100-million-in-series-d</link>
+            <description><![CDATA[Jobber, a Toronto, Canada-based provider of operations management software for home service businesses, announced that it raised $100 million in Series D funding The round was led by General Atlantic, with participation from Jobber's existing investors Summit Partners, Version One Ventures, and Tech Pioneers Fund. The financing will be used …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Enpal Raises €215 Million in Series D Round]]></title>
+            <link>https://www.thesaasnews.com/news/enpal-raises-215-million-in-series-d-round</link>
+            <description><![CDATA[Enpal, a Berlin, Germany-based solar startup that uses AI for provisioning and installing services, raised €215 million in Series D funding, bringing its total raised to €491 million and valued at €2.2 billion. The round was led by TPG Rise Climate, with participation from Westly Group (Tesla backer that invested …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:21:58 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Darwinbox Raises $4.9 Million in Extended Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/darwinbox-raises-4-9-million-in-extended-series-d-funding</link>
+            <description><![CDATA[Darwinbox, a Hyderabad, India-based HR tech firm, raised around $4.9 million from the State Bank of India (SBI) in an extended Series D round. The company’s board passed a special resolution to issue 14,523 Series D3 compulsory convertible preference shares at an issue price of Rs 28,085 per share to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[SirionLabs Boosts Series D to $110 Million]]></title>
+            <link>https://www.thesaasnews.com/news/sirionlabs-boosts-series-d-to-110-million</link>
+            <description><![CDATA[SirionLabs, a Seattle, WA-based company that provides AI-powered contract lifecycle management (CLM), raised an additional $25 million in funding, bringing its Series D to $110 million as a result of an investment by Brookfield Growth. The previously announced $85 million Series D round was led by Partners Group, with participation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wasabi Technologies Raises Additional $15 Million in Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/wasabi-technologies-raises-additional-15-million-in-series-d-funding</link>
+            <description><![CDATA[Wasabi Technologies, a Boston, MA-based hot cloud storage company has completed its Series D funding round with an additional $15 million in new equity headlined by Azura, SiS Cloud Global Tech Fund 8, and existing investors, including Prosperity7 Ventures. Following $125M in equity closed in September 2022, the additional. The …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tic:Toc Raises Additional $24 Million in Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/tic-toc-raises-additional-24-million-in-series-d-funding</link>
+            <description><![CDATA[Tic:Toc, a South Australia-based fintech, has announced that it has secured a further $24 million in funding. The round was led by existing shareholder IAG Firemark Ventures, taking its Series D to $54 million in total. The funding will be used to "transform the digital lending category’ with its fully …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[NotCo Closes $70 Million in Series D1 Funding]]></title>
+            <link>https://www.thesaasnews.com/news/notco-closes-70-million-in-series-d1-funding</link>
+            <description><![CDATA[NotCo, a New York-based fast-growing food tech company with a first-of-its-kind patented A.I. technology, Giuseppe, has announced it has closed $70 million in new funding as a Series D1. The round was Led by Princeville Capital, an investment firm focused on backing rapidly-growing technology-related companies around the world, the Series …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Beamery Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/beamery-raises-50-million-in-series-d</link>
+            <description><![CDATA[Beamery, a London, UK-based talent lifecycle management platform, announced that it closed a $50 million Series D funding that values the company at $1 billion, bringing the company’s total raised to date to $228 million. The round was led by Teachers' Ventures Growth (TVG), part of the C$242 billion Ontario …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[WorkJam Secures $50 Million in Series D Funding Round]]></title>
+            <link>https://www.thesaasnews.com/news/workjam-secures-50-million-in-series-d-funding-round</link>
+            <description><![CDATA[WorkJam, a Montreal, QC-based digital frontline workplace, announced that it secured $50 million in Series D funding. The round was led by new investor Fonds de solidarité FTQ and returning investor Inovia Capital, with participation from Blumberg Capital and new investor Demopolis Equity Partners. WorkJam plans to use the new …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:00 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[eRoad Raises $140 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/eroad-raises140-million-in-series-d</link>
+            <description><![CDATA[eRoad, a Shanghai, China-based HRTech firm, has raised 1 billion yuan ($140 million) in its Series D funding round to upgrade Platform-as-a-Service (PaaS) products to better serve large and medium-sized enterprises globally. The round was co-led by one strategic investor and one financial investor with the participation of multiple existing …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[WEKA Raises $135 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/weka-raises-135-million-in-series-d</link>
+            <description><![CDATA[WekaIO (WEKA), Campbell, CA-based data platform provider for next-generation workloads, announced that it raised $135 million in an oversubscribed Series D funding round led by Generation Investment Management. Several notable new and existing investors also contributed, including 10D, Atreides Management, Celesta Capital, Gemini Israel Ventures, Hewlett Packard Enterprise, Hitachi Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Wasabi Technologies Closes $250 Million in Funding]]></title>
+            <link>https://www.thesaasnews.com/news/wasabi-technologies-closes-250-million-in-funding</link>
+            <description><![CDATA[Wasabi Technologies, a Boston, MA-based hot cloud storage company, announced it has achieved unicorn status following $250 million in new funding, bringing the company's valuation to over $1.1 billion. Wasabi raised $125 million in Series D equity led by L2 Point Management with participation from Cedar Pine, an affiliate of …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Unravel Data Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/unravel-data-raises-50-million-in-series-d</link>
+            <description><![CDATA[Unravel Data, a Palo Alto, CA-based DataOps observability platform built to meet the needs of modern data teams, announced that it closed a $50 million Series D funding to accelerate the next generation of DataOps observability. The round was led by Third Point Ventures, with participation from Bridge Bank and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Verkada Raises $205 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/verkada-raises-205-million-in-series-d</link>
+            <description><![CDATA[Verkada, a San Mateo, CA-based market leader in cloud-managed enterprise building security and management, announced a $205 million Series D funding round with new and existing venture partners. The round was led by Linse Capital, with participation from MSD Partners, L.P., and existing investors, including Felicis Ventures, Next47, Sequoia Capital, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Taranis Raises $40 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/taranis-raises-40-million-in-series-d</link>
+            <description><![CDATA[Taranis, a Westfield, Ind. and Tel Aviv, Israel-based leading AI-powered crop intelligence provider, announced that it raised $40 million in Series D funding, bringing Taranis’s total raised to $100 million. The round was led by Inven Capital, a European climate tech fund, with participation from new investors Seraphim Space Investment …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cymulate Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/cymulate-raises-70-million-in-series-d</link>
+            <description><![CDATA[Cymulate, a Dallas, Texas-based market leader in Extended Security Posture Management (XSPM), announced a $70 million Series D funding round, bringing Cymulate’s total amount raised to $141 million. The round was led by existing investor One Peak and joined by Susquehanna Growth Equity (SGE), Vertex Ventures Israel, Vertex Growth, and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:02 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Glints Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/glints-raises-50-million-in-series-d</link>
+            <description><![CDATA[Glints, a Singapore-based leading talent ecosystem in Southeast Asia, announced that it raised $50 million in Series D funding. The round was co-led by DCM Ventures, Lavender Hill Capital, and returning investor PERSOL Holdings, with participation from Endeavor Catalyst and existing investors including Monk’s Hill Ventures, Fresco Capital, and Binny …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Yoyi Tech Raises $20 Million in Series D+]]></title>
+            <link>https://www.thesaasnews.com/news/yoyi-tech-raises-20-million-in-series-d</link>
+            <description><![CDATA[Yoyi Tech, a Beijing, China-based Omnichannel intelligent marketing platform service provider YOYI TECH announced the acquisition of LinkFlow, an industrial frontrunner in Customer Data Platform (CDP). In addition, YOYI TECH also announced the closed of its $20 million D+ round financing. The round was led by Samsung Venture Investment（SVIC）, NewQuest …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zumper Raises an additional $30 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/zumper-raises-an-additional-30-million-in-series-d</link>
+            <description><![CDATA[Zumper, a San Francisco, CA-based privately owned rental marketplace, announced the official launch of its short-term rental product and added a further $30 million to its Series D funding round. The additional investment, which takes the company’s total funding to date to $178 million, has been earmarked for short-term rentals …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Celonis Secures $1 Billion in Funding]]></title>
+            <link>https://www.thesaasnews.com/news/celonis-secures-400-million-in-series-d-extension-and-600-million-credit-facility</link>
+            <description><![CDATA[Celonis, a New York and Munich, Germany-based global leader in execution management, announced that it secured $400 million in Series D extensions and a $600 million credit facility, for a total of $1 billion in funds at $13 billion valuation, to accelerate its unique position to help customers thrive in …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[BigPanda Extends Funding Round]]></title>
+            <link>https://www.thesaasnews.com/news/bigpanda-extends-funding-round</link>
+            <description><![CDATA[BigPanda, a San Francisco, CA-based leader in AIOps Event Correlation and Automation, announced an extension of the funding round the company announced in January The investments in BigPanda have been made through UBS Next, UBS’s venture and innovation unit, and Wells Fargo Strategic Capital. This latest infusion of cash will …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[VidMob Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/vidmob-raises-110-million-in-series-d</link>
+            <description><![CDATA[VidMob, a New York-based creative intelligence platform, announced that it closed a $110 million Series D funding round as it seeks to expand its offerings that assist marketers in creating and improving digital advertising. Shamrock Capital led the round, which also included new investors eGateway Capital Advisors, and venture capital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[HiBob Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/hibob-raises-150-million-in-series-d</link>
+            <description><![CDATA[HiBob, a New York and Tel Aviv, Israel-based company behind Bob, the HR platform transforming how organizations operate in the modern world of work, announced that it raised $150 million in Series D funding, just ten months after raising a $150 million Series C in October 2021. This round was …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:04 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pliops Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/pliops-raises-100-million-in-series-d</link>
+            <description><![CDATA[Pliops, a San Jose, CA-based leading provider of data processors for cloud and enterprise data centers, announced that it closed a $100 million Series D funding round, bringing total investment in the company to more than $200 million since its founding in 2017. The round was led by Koch Disruptive …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Dianxiaomi Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/dianxiaomi-raises-110-million-in-series-d</link>
+            <description><![CDATA[Dianxiaomi, a Chinese e-commerce SaaS platform, raised $110 million in Series D funding, bringing the company’s total funding in 2022 to $210 million. The round was led by SoftBank Vision Fund 2 and Sequoia China, with participation from Tiger Global Management, GGV Capital, and Huaxing Growth Capital. Proceeds from the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Insilico Medicine Raises an Additional $35 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/insilico-medicine-raises-an-additional-35-million-in-series-d</link>
+            <description><![CDATA[Insilico Medicine, a Hong kong-based AI-driven drug discovery company, announced that it raised an additional $35 million in Series D, for a total of $95 million in aggregate. The additional funding was led by Prosperity7 Ventures, the venture arm of Aramco. Other investors in the round include Insilico founder and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[CleverTap Raises $105 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/clevertap-raises-105-million-in-series-d</link>
+            <description><![CDATA[CleverTap, a Mountain View, CA-based modern, integrated retention cloud that empowers digital consumer brands to increase customer retention and lifetime value, announced that it raised $105 million in Series D funding. The round was led by CDPQ, with participation from IIFL AMC’s Tech Fund, along with existing investors Tiger Global …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenSpace Raises an Additional $9 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/openspace-raises-an-additional-9-million-in-series-d</link>
+            <description><![CDATA[OpenSpace, a San Francisco, CA-based global leader in 360° jobsite capture and AI-powered analytics, announced that it raised $9 million in additional strategic capital for its Series D round, bringing the total raised to US$111M. The investment comes from funds managed by existing investors Taronga Ventures and GreenPoint Partners, spotlighting …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Aisera Secures $90 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/aisera-secures-90-million-in-series-d</link>
+            <description><![CDATA[Aisera, a Palo Alto, CA-based world’s first AI-driven service experience platform for automated employee experiences (EX) and customer experiences (CX), announced that it secured $90 million in Series D funding. The round was led by the Growth Equity business within Goldman Sachs Asset Management (Goldman Sachs) and Thoma Bravo. The …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Kry Secures €157 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/kry-secures-157-million-in-series-d</link>
+            <description><![CDATA[Kry a Stockholm-based company that provides an online telemedicine platform for patients has announced that it has raised over $160 million (approximately €157M+) in a fresh round of funding. The round saw participation from both new and existing investors, including Teachers’ Venture Growth (TVG, part of the $242B Ontario Teachers’ …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:06 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Crunchbase Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/crunchbase-raises-50-million-in-series-d</link>
+            <description><![CDATA[Crunchbase Inc., a San Francisco Calif. based- was announced it has raised $50 million in series D. Alignment Growth led the Series D round, with OMERS Ventures, Mayfield, and Emergence Capital also participating. Including the new funding. The fund will be used to accelerate product innovation and deepen relationships with …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Whatnot Raises $260 Million in Series D Funding]]></title>
+            <link>https://www.thesaasnews.com/news/whatnot-raises-260-million-in-series-d-funding</link>
+            <description><![CDATA[Whatnot, a Los Angeles, CA-based independent live shopping platform, raised $260 million in Series D funding. The round was led by DST Global and CapitalG, which also saw participation from BOND and returning investors Andreessen Horowitz and YC Continuity. The Company intends to use the funds to keep investing in …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AnyMind Group Raises $29.4 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/anymind-group-raises-29-4-million-in-series-d</link>
+            <description><![CDATA[AnyMind Group, a Singapore-based end-to-end commerce enablement company, raised $29.4 million in its Series D funding round from new investors including JIC Venture Growth Investments, Japan Post Investment Corporation, Nomura SPARX Investment, and PROTO Ventures. Existing investor Mitsubishi UFJ Capital also participated in the round, taking the firm’s total to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Innoviti Raises $45 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/innoviti-raises-45-million-in-series-d</link>
+            <description><![CDATA[Innoviti, a Karnataka, India-based collaborative commerce platform, raised $45 million in Series D funding. The round was led by Panthera Growth Partners (PGP), with participation from Alumni Ventures, Patni Family Office, Bessemer Venture Partners along with individual investors like Sanjoy Bhattacharya, and Bharat Jaisinghani among others. The fund raised will …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Flexe Raises $119 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/flexe-raises-119-million-in-series-d</link>
+            <description><![CDATA[Flexe, a Seattle, Washington-based programmatic logistics leader, announced its $119 million Series D funding round at a $1b+ post-money valuation. Bringing Flexe's total funding to $263 million to date. The round includes new investments from funds and accounts managed by BlackRock and follow-on investments from Activate Capital, Madrona Ventures, Prologis …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Gloat Raises $90 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/gloat-raises-90-million-in-series-d</link>
+            <description><![CDATA[Gloat, a New York-based leading provider of Workforce Agility software and pioneers of the AI-powered Talent Marketplace announced that it raised $90 million in Series D funding. The round was led by Generation Investment Management, with participation from Accel, Eight Roads Ventures, Intel Capital, and Lumir Ventures. The funding positions …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[LegalForce Raises 13.7 Billion yen in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/legalforce-raises-13-7-billion-yen-in-series-d</link>
+            <description><![CDATA[LegalForce, a Tokyo, Japan-based provider of contract review platform and AI-enabled contract management suite, announced that it raised approx. 13.7 billion yen ($101m) in Series D funding. The round was led by SoftBank Vision Fund 2, with the participation of Sequoia China, Goldman Sachs, and existing investors including World Innovation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:08 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Front Raises $65 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/front-raises-65-million-in-series-d</link>
+            <description><![CDATA[Front, a San Francisco- based communication hub for building strong customer relationships announced has raised $65 million in Series D financing. The round was led by Salesforce Ventures and Battery Ventures and with participation from PagerDuty CEO, Jennifer Tejada. Existing investors Sequoia Capital, Threshold Ventures, and Uncork Capital also participated …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Platform.sh Raises $140 million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/platform-sh-raises-140-million-in-series-d</link>
+            <description><![CDATA[Platform.sh, San Francisco -based unified, secure, enterprise-grade platform for building, running, and scaling web applications, has announced it has raised $140 million in Series D funding. The round was led by Munich-based Digital+Partners, San Francisco-based Morgan Stanley Expansion Capital, and Paris-based Revaia, alongside existing investors BGV, Eurazeo, Hiinov, and Partech, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Aidoc Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/aidoc-raises-110-million-in-series-d</link>
+            <description><![CDATA[Aidoc, a Tel, Aviv, Israel- based leading provider of healthcare AI solutions, has announced that it raised a $110 million in Series D round investment, bringing its total funding to $250 million. The round was co-led by global growth investors TCV and Alpha Intelligence Capital (AIC), with participation from AIC's …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AlphaSense Raises $225 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/alphasense-raises-225-million-in-series-d</link>
+            <description><![CDATA[AlphaSense, a New York-based market intelligence, and search platform, raised $225m in Series D financing. The round, which valued the company at $1.7 billion, was led by the Growth Equity business within Goldman Sachs Asset Management (Goldman Sachs) and Viking Global Investors. This new funding round includes a substantial debt …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Pixellot Raises $161 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/pixellot-raises-161-million-in-series-d</link>
+            <description><![CDATA[Pixellot, a Tel Aviv, Israel-based the world leader in automated sports video and analytics solutions, announced today it has completed a $161 million funding round The round was led by PSG, a leading growth equity firm partnering with software and technology-enabled services companies, with the participation of existing investor Israeli …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Insilico Medicine Completes $60 million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/insilico-medicine-completes-60-million-in-series-d</link>
+            <description><![CDATA[Insilico Medicine, an NYC-based clinical-stage end-to-end artificial intelligence (AI)-driven drug discovery company, announced that it has completed a $60 million Series D. New investors, including a large, diversified asset management firm on the US West Coast and BHR Partners joined the round, along with current investors, including lead investor of …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Coralogix Closes $142 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/coralogix-closes-142-million-in-series-d</link>
+            <description><![CDATA[Coralogix, a San Francisco and Tel Aviv, Israel-based company using streaming analytics to rebuild the path to observability, raised a $142 million Series D funding round, bringing the company's total amount raised to $238 million. New investors Advent International ("Advent") and Brighton Park Capital ("Brighton Park") co-led the round with …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:10 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Monte Carlo Raises $135 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/monte-carlo-raises-135-million-in-series-d</link>
+            <description><![CDATA[Monte Carlo, a San Francisco, CA-based data reliability company, announced that it raised $135 million in Series D at a $1.6 billion valuation, bringing its total funding to $236 million to pioneer the data observability category and bring reliable, trustworthy data to teams everywhere. The round was led by IVP, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Thought Machine Raises $160 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/thought-machine-raises-160-million-in-series-d</link>
+            <description><![CDATA[Thought Machine, a London, UK-based fintech company that builds cloud-native technology to revolutionize core banking, raised $160 million in a Series D funding, after 6 months since the series c round, now valued at $2.7 billion. The round was led by Temasek, participation from Intesa Sanpaolo and Morgan Stanley, as …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Imply Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/imply-raises-100-million-in-series-d</link>
+            <description><![CDATA[Imply, a Burlingame, California-based company that develops an innovative database purpose-built for modern analytics applications, raised $100 million in Series D funding. The round was led by Thoma BravoM, with participation from OMERS, existing investors Bessemer Venture Partners, Andreessen Horowitz, and Khosla Ventures also participated in the round. With the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Optibus Closes $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/optibus-closes-100-million-in-series-d</link>
+            <description><![CDATA[Optibus, a Tel Aviv, Israel-based end-to-end software platform for public transportation planning and operations, announced that it closed $100 million in Series D funding. From new and existing investors Insight Partners, Bessemer Venture Partners, Verizon Ventures, Pitango First & Pitango Growth, Tencent, SOMV Momentum, and others. This latest round of …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Tifin Closes $109 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/tifin-closes-109-million-in-series-d</link>
+            <description><![CDATA[Tifin, a Boulder, CO-based fintech platform using artificial intelligence (AI) and investment-driven personalization to shape the future of investor experiences, announced the successful closing of $109 million in a Series D financing round. Franklin Resources (NYSE: BEN), a global investment manager operating under Franklin Templeton, and Motive Partners, joined previous …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Stord Raises $120 Million in Series D Extension]]></title>
+            <link>https://www.thesaasnews.com/news/stord-raises-120-million-in-series-d-extension</link>
+            <description><![CDATA[Stord, an Atlanta, Georgia-based cloud supply chain leader, announced that it raised an additional $120 million in Series D financing now valued at $1.3 billion. The round was led by Franklin Templeton, bringing the total round to $210 million. Stord recently crossed $200 million in annualized revenue run-rate and has …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rippling Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/rippling-raises-250-million-in-series-d</link>
+            <description><![CDATA[Rippling, a San Francisco, CA-based HR solution that manages businesses’ human resources, IT, and operations, raised $250 million in Series D funding. The round was co-led by Bedrock and Kleiner Perkins, with participation from existing investors Y Combinator, Sequoia Capital, and more. The round values the company at $11.25 billion. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:11 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[SirionLabs Secures $85 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/sirionlabs-secures-85-million-in-series-d</link>
+            <description><![CDATA[SirionLabs, a Seattle, WA-based global leader in artificial intelligence (AI)-powered contract lifecycle management (CLM), announced that it secured $85 million in Series D funding. The round was led by Partners Group, with participation from existing investors Avatar Capital, Sequoia Capital, and Tiger Global. This brings the total raised by SirionLabs …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Paddle Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/paddle-raises-200-million-in-series-d</link>
+            <description><![CDATA[Paddle, a London, England-based provider of complete payment infrastructure for SaaS companies, announced that it raised $200 million in Series D at a valuation of $1.4 billion, making it the UK's latest unicorn. The round was led by KKR, a leading global investment firm, with participation from existing investors FTV …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Movable Ink Secures $55 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/movable-ink-secures-55-million-in-series-d</link>
+            <description><![CDATA[Movable Ink, a New York-based marketing software provider, secured $55 million in a Series D funding round valued at $1.3 billion led by Silver Lake Waterman, with participation from Contour Venture Partners, Intel Capital, and others. The round brings the company’s total funding raised to $97 million. With the capital, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Biofourmis Raises $300 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/biofourmis-raises-300-million-in-series-d</link>
+            <description><![CDATA[Biofourmis, a Boston, Massachusetts-based global leader in virtual care and digital medicine, announced it raised a $300 million Series D investment with a valuation of $1.3 billion. To date, Biofourmis has raised a total of $445 million in funding. The round was led by General Atlantic. CVS Health (NYSE: CVS) …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Filevine Raises $108 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/filevine-raises-108-million-in-series-d</link>
+            <description><![CDATA[Filevine, a Salt Lake City, Utah-based leading legal work platform, announced that it raised $108 million in Series D funding. The round was led by StepStone Group, with additional funding from Golub Capital. Signal Peak Ventures and Meritech Capital, repeat investors in Filevine, also participated in this round. The Series …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fit2Cloud Secures $15.7 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/fit2cloud-secures-15-7-million-in-series-d</link>
+            <description><![CDATA[Fit2Cloud, a Beijing, China-based cloud management platform closed $15.7 million in (CNY 100 million) Series D financing. The round was led by Legend Capital, with participation from Vision Knight Capital. The proceeds will be used in product R&D and service delivery to better combine open-source technologies with cloud services. Company: …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Grafana Labs Raises $240 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/grafana-labs-raises-240-million-in-series-d</link>
+            <description><![CDATA[Grafana Labs, a New York-based the company behind the world’s most ubiquitous open and composable operational dashboards, closed a $240 million Series D round of investment, raised a total of $540 million, including its $220 million Series C last August The round was led by GIC, with participation from new …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:13 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Viz.ai Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/viz-ai-raises-100-million-in-series-d</link>
+            <description><![CDATA[Viz.ai, a San Francisco, CA-based leading AI-powered disease detection and care coordination platform, announced that it raised a $100 million Series D funding round at a $1.2 billion valuation. The round was led by Tiger Global and Insight Partners, with participation from early backers including Scale Ventures, Kleiner Perkins, Threshold, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Electric Raises $20 Million in Series D-1]]></title>
+            <link>https://www.thesaasnews.com/news/electric-raises-20-million-in-series-d-1</link>
+            <description><![CDATA[Electric, a New York-based leader in providing world-class IT technology for small and medium-sized businesses (SMBs), raised $20 million in Series D-1 funding from Harmonic Growth Partners. Five months after its $90 million Series D with GGV Capital, Bessemer Venture Partners, Greenspring Associates, and others. This new funding brings the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[HackerRank Raises $60 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/hackerrank-raises-60-million-in-series-d</link>
+            <description><![CDATA[HackerRank, a Mountain View, CA-based developer skills company that helps businesses attract, evaluate and hire the best technical talent from around the world, announced $60 million in Series D funding. The round was led by Susquehanna Growth Equity, with participation from JMI, Khosla Ventures, Randstad Innovation Fund, and Recruit Holdings. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Classplus Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/classplus-raises-70-million-in-series-d</link>
+            <description><![CDATA[Classplus, a Noida, India-based B2B edtech startup that provides mobile-first software for coaching institutes, tuition centers, and private tutors raised $70 million in Series D funding now valued at $570 million. The round was co-led by Alpha Wave Global and Tiger Global, with participation from Abu Dhabi-based Chimera Ventures and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Capitolis Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/capitolis-raises-110-million-in-series-d</link>
+            <description><![CDATA[Capitolis, a New York-based technology company reimagining capital markets, announced that it raised a $110 million Series D at a $1.6 billion valuation, driven by the rapid emergence and market acceptance of its marketplace solutions. The round was co-led by top fintech investors Canapi Ventures, 9Yards Capital, and SVB Capital. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[CommerceIQ Raises $115 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/commerceiq-raises-115-million-in-series-d</link>
+            <description><![CDATA[CommerceIQ, a San Francisco CA-based eCommerce analytics platform, raised $115 million in a Series D financing round at a valuation of more than $1 billion. The round was led by SoftBank Vision Fund 2 and included participation from existing institutional investors Insight Partners, Trinity Ventures, Shasta Ventures, and Madrona Venture …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Glia Secures $45 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/glia-secures-45-million-in-series-d</link>
+            <description><![CDATA[Glia, a New York-based that builds AI-based CRM solutions for agents to converse with customers across multiple mediums (including video, voice, messaging, email and chatbots), closed a new round of funding, a Series D of $45 million that catapults the company’s valuation to over $1 billion. Insight Partners led the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:15 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Xempus AG Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/xempus-ag-raises-70-million-in-series-d</link>
+            <description><![CDATA[Xempus AG, a Munich, Germany-based leading European SaaS platform to sell and manage pension & life insurance policies, raised $70 million in primary equity funding on its mission to digitize pensions for insurers, agents, corporates, and employees. This brings the total funding to date to $125 million. The Series D …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Ardoq Raises $125 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/ardoq-raises-125-million-in-series-d</link>
+            <description><![CDATA[Ardoq, an Oslo, Norway-based SaaS company reinventing Enterprise Architecture for today’s digital enterprise, announced a $125 million Series D funding round. The round is led by EQT Growth, the growth equity strategy of the global investment organization EQT, which invests in and partners with Europe’s most innovative tech companies to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Forto Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/forto-raises-250-million-in-series-d</link>
+            <description><![CDATA[Forto, a Berlin, Germany-based leading provider of digitized freight forwarding and supply chain solutions, announced that it raised $250 Million in a pre-emptive Series D investment. The round was led by Disruptive, with participation from existing investors including Softbank Vision Fund 2, G Squared, Northzone, Unbound, and A.P. Moeller Holding. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[OpenSpace Raises $102 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/openspace-raises-102-million-in-series-d</link>
+            <description><![CDATA[OpenSpace, a San Francisco, CA-based global leader in 360° jobsite capture and AI-powered analytics, announced a $102 million in Series D funding. The round was led by PSP Growth, the venture and growth equity arm of PSP Partners, with participation from several new investors, including funds and accounts managed by …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Insider Raises $121 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/insider-raises-121-million-in-series-d</link>
+            <description><![CDATA[Insider, a Singapore-based leader in personalized, cross-channel customer experiences, announced a $121 million Series D round led by QIA, at a $1.22 billion valuation. Other investors participating in the round include Sequoia, Riverwood Capital, 212, Wamda Capital, Esas Private Equity, and Endeavor Catalyst. The additional capital will be used to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Aurora Solar Secures $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/aurora-solar-secures-200-million-in-series-d</link>
+            <description><![CDATA[Aurora Solar, a San Francisco, CA-based industry's leading software platform for solar sales and design, announced it closed a $200 million Series D funding. The round was co-led by current investors Coatue and Energize Ventures, with participation from Fifth Wall, ICONIQ, and new investors, Lux Capital and Emerson Collective. With …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[dbt Labs Raises $222 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/dbt-labs-raises-222-million-in-series-d</link>
+            <description><![CDATA[dbt Labs, a Philadelphia, PA-based pioneer in analytics engineering, today announced that it raised $222 million in Series D financing at a $4.2 billion valuation. The round was led by existing investor, Altimeter, with participation from existing investors Amplify Partners, Andreessen Horowitz, and Sequoia. New investors participating in Series D …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:16 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[WSC Sports Secures $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/wsc-sports-secures-100-million-in-series-d</link>
+            <description><![CDATA[WSC Sports, the global leader in AI-driven sports highlights, announced that it closed a $100 million Series D round led by ION Crossover Partners (ICP). Existing investors, including Intel Capital, O.G. Tech, and Detroit Venture Partners (Dan Gilbert), also participated in the round. The company plans to use the new …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Starburst Secures $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/starburst-secures-250-million-in-series-d</link>
+            <description><![CDATA[Starburst, a Boston, MA-based analytics anywhere company, announced that it secured a $250 million Series D funding round at a $3.35 billion valuation. The financing round was led by Alkeon Capital, with participation from Altimeter and B Capital Group, as well as existing investors Andreessen Horowitz, Coatue Management, Index Ventures, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Productboard Raises $125 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/productboard-raises-125-million-in-series-d</link>
+            <description><![CDATA[Productboard, a San Francisco, CA-based customer-centric product management platform for teams to get the right products to market faster, announced that it raised $125 million Series D funding. The round, which brings the total amount raised to $262m and the valuation of $1.725 billion, was led by Dragoneer Investment Group …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Deliverect Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/deliverect-raises-150-million-in-series-d</link>
+            <description><![CDATA[Deliverect, a Ghent, Belgium-based global scale-up that simplifies online ordering for more than 20,000 locations across 40 markets, announced it secured more than $150 million (€130 million) in Series D funding. The round was led by Coatue and Alkeon Capital as well as existing investors OMERS Ventures, DST Global, Redpoint …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[SparkCognition Secures $123 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/sparkcognition-secures-123-million-in-series-d</link>
+            <description><![CDATA[SparkCognition, an Austin, Texas-based global leader in artificial intelligence (AI) software solutions for business, today announced the close of its $123 million Series D funding round. Following this round, the company achieved a unicorn valuation in excess of $1.4 billion, bringing the total capital raised to $300 million. The round …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Darwinbox Raises $72 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/darwinbox-raises-72-million-in-series-d</link>
+            <description><![CDATA[Darwinbox, Hyderabad, India-based operates a cloud-based human resource management platform, an eponymous platform that manages the entire “hiring to retiring” cycle needs of employees, raised $72 million in Series D funding. The round was led by Technology Crossover Ventures (TCV), Existing investors, including Lightspeed Venture Partners, Sequoia Capital India, Salesforce …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Zero Hash Secures $105 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/zero-hash-secures-105-million-in-series-d</link>
+            <description><![CDATA[Zero Hash, a Chicago, Illinois-based B2B digital-asset-as-a-service infrastructure closed $105 million in Series D funding round backed by Bain Capital, NYCA, and Steve Cohen’s Point72 Ventures. This funding round comes just months after Zero Hash collected $35m in its Series C round. It raised the funds to expand its product …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:18 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[BigPanda Raises $190 Million in Funding at $1.2 Billion Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/bigpanda-raises-190-million-in-funding-at-1-2-billion-valuation</link>
+            <description><![CDATA[BigPanda, Inc., a San Francisco, CA-based leader in AIOps Event Correlation and Automation, raised a $190 million funding round was led by Advent International, through its dedicated technology fund, and New York-based global venture capital and private equity firm Insight Partners, with participation by other existing investors. This funding will …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[TravelPerk Raises Additional $115 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/travelperk-raises-additional-115-million-in-series-d</link>
+            <description><![CDATA[TravelPerk, a Barcelona, Spain-based travel management platform provider, closed its Series D round at $275 million by raising an additional $115 million to top the $160 million raised in April, reaching a valuation of $1.3 billion. The round was led by new investor General Catalyst and existing investor Kinnevik and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Checkout.com Raises $1 Billion at a $40 Billion valuation]]></title>
+            <link>https://www.thesaasnews.com/news/checkout-com-raises-1-billion-at-a-40-billion-valuation</link>
+            <description><![CDATA[Checkout.com, a London, England-based company that offers a full-stack online platform that simplifies payments processes for large global enterprise merchants, raised $1 billion in its Series D funding round at a valuation of $40 billion. Primary investors include Altimeter, Dragoneer, Franklin Templeton, GIC, Insight Partners, the Qatar Investment Authority, Tiger …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Qonto Raises $552 Million at $5 Billion Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/qonto-raises-552-million-at-billion-valuation</link>
+            <description><![CDATA[Qonto, a French neobank for SMEs and freelancers, raised a $552 million Series D funding round (€486 million) led by Tiger Global and TCV. Following this investment, the startup has reached a valuation of $5 billion (€4.4 billion). This is one of the largest rounds in the French tech ecosystem. …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[RoadRunner Raises $70 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/roadrunner-raises-70-million-in-series-d</link>
+            <description><![CDATA[RoadRunner, a Pittsburgh, PA-based recycling firm that uses machine learning algorithms to assist businesses with waste management, raised $70 million in a Series D funding round from General Atlantic’s BeyondNetZero, a climate-focused investment venture. The new funding will be used to further expand the company's machine-learning and recycling marketplace technology, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Labelbox Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/labelbox-raises-110-million-in-series-d</link>
+            <description><![CDATA[Labelbox, a San Francisco-based leading training data platform for enterprise machine learning applications, announced the closing of a $110 million Series D funding to accelerate the development and distribution of our AI training data platform. The round was led by SoftBank’s Vision Fund 2, with participation from Snowpoint Ventures and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Exotel Raises $40 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/exotel-raises-40-million-in-series-d</link>
+            <description><![CDATA[Exotel, a Bangalore-based full-stack customer engagement platform, raised $40 million in a Series D financing round led by Steadview Capital. Exotel has in total, raised approximately $100 million in the last 15 months across multiple debts and equity rounds. The fresh infusion of funds will be primarily used to build …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:20 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Netlify Raises $105 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/netlify-raises-105-million-in-series-d</link>
+            <description><![CDATA[Netlify, a San Francisco-based most popular way to build, deploy, and scale modern web applications, raised $105 million in Series D funding to accelerate the growth of the Netlify developer platform and Jamstack ecosystem, valuing the company at $2 billion. The round was led by Bessemer Venture Partners, with participation …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Turing Raises $87 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/turing-raises-87-million-in-series-d</link>
+            <description><![CDATA[Turing, a Palo Alto, California-based world's leading Intelligent Talent Cloud, announced that it raised $87 million at a valuation of about $1.1 billion. The Series D financing was led by WestBridge Capital, with participation from Foundation Capital, along with new investor StepStone Group. Other investors in the round include AltaIR …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Bizongo Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/bizongo-raises-110-million-in-series-d</link>
+            <description><![CDATA[Bizongo, a Mumbai, India-based B2B eCommerce and supply chain enablement platform, also launched India’s first IoT powered ‘cloud factory’ for made-to-order goods, announced that it raised $110 million in Series D round led by New York-based Tiger Global Management. The series D round had new investments coming from CDC and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Signal AI Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/signal-ai-raises-50-million-in-series-d</link>
+            <description><![CDATA[Signal AI, a London-based artificial intelligence company, secured $50 million (£37.52m) in Series D funding to develop its “decision augmentation” solution used by business leaders to make data-driven strategic decisions. The round was led by venture capital firm Highland Europe, with participation from asset manager Abrdn. Existing investors Redline, MMC, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Heap Raises $110 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/heap-raises-110-million-in-series-d</link>
+            <description><![CDATA[Heap, a San Francisco, CA-based digital insights platform, closed a $110 m Series D funding round, brought total funding raised to date to $205 million at a $960 million valuation. The round was led by Sixth Street Growth, with participation from the Growth Equity business within Goldman Sachs Asset Management …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[MoEngage Raises $30 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/moengage-raises-30-million-in-series-d</link>
+            <description><![CDATA[MoEngage, a Bengaluru-based insights-led customer engagement platform, raised $30 million in Series D funding. The round was led by Steadview Capital, with participation from existing investors Multiples Alternate Asset Management, Eight Roads Ventures, F-Prime Capital, and Matrix Partners. The new funding will help further accelerate the insights-led customer engagement platform …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[ButterflyMX Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/butterflymx-raises-50-million-in-series-d</link>
+            <description><![CDATA[ButterflyMX, a New York-based creator of smart video intercoms, package rooms, keypads, elevator controls, key lockers, and other access control technology for multifamily, commercial, and student housing properties, announced the closing of a $50 million Series D growth equity round. The round was led by JMI Equity, with participation from …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:22 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[LogDNA Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/logdna-raises-50-million-in-series-d</link>
+            <description><![CDATA[LogDNA, a San Francisco, CA-based cloud observability data platform provider, raised $50 million in Series D funding round led by NightDragon, with participation from Emergence and Initialized Capital. The investment allows LogDNA to accelerate time to market for a new observability data pipeline solution, which will enable enterprises to ingest …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Sense Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/sense-raises-50-million-in-series-d</link>
+            <description><![CDATA[Sense, a San Francisco, CA-based AI-driven talent engagement and communication platform, raised $50 million in Series D funding led by SoftBank Vision Fund 2. Sense plans to use the funds for international expansion, with the focus on high-growth markets such as Western Europe. The proceeds will also be used to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Engage3 Raises $35 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/engage3-raises-35-million-in-series-d</link>
+            <description><![CDATA[Engage3, a Davis, California-based leading provider helping retailers and brands profitably grow revenue and drive store trips by tracking and optimizing their Price Image, announced that it closed a $35 million in Series D. The round was led by Arrowroot Capital, a leading US growth equity firm specializing in B2B …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fundbox Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/fundbox-raises-100-million-in-series-d</link>
+            <description><![CDATA[Fundbox, a San Francisco, CA-based AI-powered financial platform for small businesses, closed a $100 million Series D funding round at a valuation of $1.1 billion. The round was led by the Healthcare of Ontario Pension Plan (HOOPP), joined by existing investors Allianz X, Khosla Ventures, The Private Shares Fund, and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Vercel Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/vercel-raises-150-million-in-series-d</link>
+            <description><![CDATA[Vercel, a San Francisco-based platform to develop, preview, and ship websites, from single static pages to apps, announced that it secured $150 million in Series D funding at a $2.5B valuation to Further Fuel Innovation and Global Adoption of the World’s Fastest Frontend Development Platform. The round was led by …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Lacework Raises $1.3 Billion at $8.3 Billion Valuation]]></title>
+            <link>https://www.thesaasnews.com/news/lacework-raises-1-3-billion-at-8-3-billion-valuation</link>
+            <description><![CDATA[Lacework, a San Jose, Calif.-based data-driven security platform for the cloud raised $1.3 billion on an $8.3 billion valuation to double down on the channel. Series D round was led by existing investors Sutter Hill Ventures, Altimeter Capital, D1 Capital Partners, and Tiger Global Management. New investors include Counterpoint Global …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Nexar Raises $53 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/nexar-raises-53-million-in-series-d</link>
+            <description><![CDATA[Nexar, a New York-based leading AI computer vision company, announced the completion of a $53 million Series D funding round. The round was led by Qumra Capital, with the participation of State Farm Ventures, Catalyst Investments, Banca Generali, Valor, and previous backers; Atreides Management, Corner Ventures, Regah Ventures, Aleph, and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:23 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Podium Raises $201 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/podium-raises-201-million-in-series-d</link>
+            <description><![CDATA[Podium, a Lehi, Utah-based communication and payments platform for local businesses, announced it has raised $201 million in Series D funding. This latest round brings the company's valuation to over $3 billion. The round was led by YC Continuity, with participation from Durable Capital Partners, Arpex Capital, Accel, Album VC, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[ControlUp Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/controlup-raises-100-million-in-series-d</link>
+            <description><![CDATA[ControlUp, a San Jose, California-based industry leader in Digital Employee Experience management, announced that it has completed a $100 million in Series D funding round, co-led by K1 Investment Management and JVP. This new investment will help drive innovation and partnerships, to give people the flexibility and freedom to work …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[SafeBreach Raises $53.5 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/safebreach-raises-53-5-million-in-series-d</link>
+            <description><![CDATA[SafeBreach, the pioneer in breach and attack simulation ("BAS"), announced that it raised $53.5 million in Series D funding, led by Sonae IM and Israel Growth Partners (IGP), with additional participation from Sands Capital and Leumi Partners. The latest round also includes a strategic investment from ServiceNow, the leading digital …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Everlaw Raises $202 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/everlaw-raises-202-million-in-series-d</link>
+            <description><![CDATA[Everlaw, an Oakland, California-based cloud-native investigation and litigation platform, announced $202 million in Series D funding, bringing the company to an overall valuation of over $2 billion after a year of 80% YoY growth. The round was led by TPG Growth, with participation from H.I.G. Growth Partners and existing investors …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cloudbeds Raises $150 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/cloudbeds-raises-150-million-in-series-d</link>
+            <description><![CDATA[Cloudbeds, a San Diego, CA-based vertical SaaS business that creates cloud-based hospitality management software, announced it has raised a $150 million Series D, bringing the company's total venture funding to $253 million. The round was led by new investor SoftBank Vision Fund 2, joined by Echo Street, Walleye Capital, returning …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Lever Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/lever-raises-50-million-in-series-d</link>
+            <description><![CDATA[Lever, a San Francisco, California-based leading Talent Acquisition Suite, completed a $50 million Series D funding round led by Apax Digital Fund. The company will use this funding to expand globally, invest in R&D, and build on its already expansive ecosystem of technology partners. The lever is particularly excited to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[﻿Dragos Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/dragos-raises-200-million-in-series-d</link>
+            <description><![CDATA[Dragos is an industrial cybersecurity company that detects and responds to threats in industrial controls systems, raised $200 million in Series D funding at a valuation of $1.7 billion. The round was led by Koch Disruptive Technologies and BlackRock, also had investments from Emerson, Hewlett Packard Enterprise, Allegis Cyber, Canaan, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:25 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Medable Raises $304 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/medable-raises-304-million-in-series-d</link>
+            <description><![CDATA[Medable Inc., a Palo Alto, Calif-based leading cloud platform for patient-centered clinical research, today announced $304 million in Series D funding to accelerate global adoption of digital and decentralized clinical trials, enabling ubiquitous access to the latest treatments for everybody and every biology. The funding round was co-led by new …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Electric Raises $90 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/electric-raises-90-million-in-series-d</link>
+            <description><![CDATA[Electric, a New York-based provider of IT technology for small and medium-sized businesses, raised $90 million in Series D funding. The round, which brought the total amount raised to over $189M, was led by existing investor GGV Capital with participation from existing investors Bessemer Venture Partners, Primary Venture Partners, Greenspring …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Electric Raises $90 Million Series D to Automate IT for Small Businesses]]></title>
+            <link>https://www.thesaasnews.com/news/electric-raises-90-million-series-d-to-automate-it-for-small-businesses</link>
+            <description><![CDATA[Electric, a New York-based leader in providing world-class IT technology for small and medium-sized businesses, raised $90 million in Series D funding. Existing investor GGV Capital is leading the round, with participation from existing investors Bessemer Venture Partners, Primary Venture Partners, Greenspring Associates, 01 Advisors, Atreides Management, Vintage Investment Partners, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Cannabis E-commerce platform Dutchie Raises $350 Million  Valued at $3.75 Billion]]></title>
+            <link>https://www.thesaasnews.com/news/cannabis-e-commerce-platform-dutchie-raises-350-million-valued-at-3-75-billion</link>
+            <description><![CDATA[Dutchie, a Bend, Oregon-based creator of technology to help facilitate legal cannabis orders, raised $350 million in a Series D funding round. The influx of new cash comes just seven months after the startup raised $200 million. Dutchie’s valuation has doubled to $3.75 billion. The round was led by D1 …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Alida Closes $20 Million in Series D from Round13 Growth Fund]]></title>
+            <link>https://www.thesaasnews.com/news/alida-closes-20-million-in-series-d-from-round13-growth-fund</link>
+            <description><![CDATA[Alida, a Toronto, Canada-based leader in Total Experience Management (TXM), closed a $20 million Series D funding round led by Round13 Growth Fund. The Round13 Growth Fund, a late-stage growth equity investment fund, is part of the Round13 Capital family of funds. The funding round will accelerate Alida’s global growth …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AI-powered Health Coach Lark Health Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/ai-powered-health-coach-lark-health-raises-100-million-in-series-d</link>
+            <description><![CDATA[Lark Health, a Mountain View, California-based provider of chronic disease prevention and management programs, raised $100 million in a Series D funding round. The round was led by Deerfield Management Company, including participation from crossover fund PFM Health Sciences, Franklin Templeton, King River Capital, Castlepeak, IPD, Olive Tree Capital, and …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Automotive SaaS Platform Tekion Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/automotive-saas-platform-tekion-raises-250-million-in-series-d</link>
+            <description><![CDATA[Tekion, an Automotive SaaS platform, raised $250 million in a Series D funding round co-led by Alkeon Capital, and Durable Capital has valued Tekion at over $3.5 billion. The company has almost tripled its valuation when compared to its last funding raised last year. Other investors, including Hyundai Motor Company, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:27 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Built Technologies Raises $125 Million in Series D at $1.5 Billion valuation]]></title>
+            <link>https://www.thesaasnews.com/news/built-technologies-raises-125-million-in-series-d-at-1-5-billion-valuation</link>
+            <description><![CDATA[Built Technologies Raises $125 Million in Series D at $1.5 Billion valuation Built Technologies (Built), a Nashville, Tennessee-based fastest growing construction finance platform in the U.S., today announced $125 million in Series D funding at a valuation of $1.5 billion. The round was led by TCV, along with Brookfield Technology …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Customer Success Platform Totango Raises $100 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/customer-success-platform-totango-raises-100-million-in-series-d</link>
+            <description><![CDATA[Totango, a Redwood City, California and Boston-based customer success leader in leveraging data to orchestrate and transform revenue experiences, raised $100 million in Series D funding. The round was led by Great Hill Partners, a thematic growth equity investor that targets leading businesses in disruptive markets. Existing Totango investors also …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Fivetran Raises $565 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/fivetran-raises-565-million-in-series-d</link>
+            <description><![CDATA[Fivetran, an Oakland, California-based technology company that helps analysts replicate data into a cloud warehouse, raises $565 million in Series D. The round was led by Andreesen Horowitz with participation from existing investors including General Catalyst, Matrix Partners, and CEAS, along with new investors D1 Capital Partners, Iconiq, and YC …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Lightricks Award-winning App Developer Raises $130 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/lightricks-award-winning-app-developer-raises-130-million-in-series-d</link>
+            <description><![CDATA[Lightricks, a New York and Jerusalem-based creator of the world's leading photo and video editing apps, announced $130 million in Series D funding. The round is comprised of $100M in primary and $30M in secondary funding which brings Lightricks’ total funding to date to $335 million and the company’s latest …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Advance Intelligence Group Raises $400 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/advance-intelligence-group-raises-400-million-in-series-d</link>
+            <description><![CDATA[Advance Intelligence Group, a Singapore-based artificial-intelligence startup, raised more than $400 million in Series D round, bringing its valuation above $2 billion. The round was led by SoftBank Vision Fund 2 and New York-based private equity firm Warburg Pincus. The group plans to use the new capital to fund the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Melio Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/melio-raises-250-million-in-series-d</link>
+            <description><![CDATA[Melio, an Israeli-based fintech company, raised an additional $250 million in Series D, tripling the company’s valuation to $4 billion since January 2021. The Series D round, which comes as the company grew its monthly processing volumes by 5,000% over the last 18 months, was co-led by new investor Thrive …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[XTransfer Raises $138 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/xtransfer-raises-138-million-in-series-d</link>
+            <description><![CDATA[XTransfer, China's leading one-stop cross-border financial and risk management services provider, raised $138 million in a Series D round of funding. The latest round was led by D1 Capital Partners, with existing shareholders also putting in money. Lighthouse Capital was the sole financial advisor for this round. XTransfer plans to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:29 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Keenon Robotics Co., Ltd Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/keenon-robotics-co-ltd-raises-200-million-in-series-d</link>
+            <description><![CDATA[Keenon Robotics Co., Ltd, a China-based leader in service robotics, raised $200 Million in Series D funding, led by Softbank Vision Fund 2, followed by CICC ALPHA and Prosperity7 Ventures (the diversified growth fund of Aramco Ventures). Keenon will use the funding to "drive innovation through its in-house R&D to …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Stord Raises $90 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/stord-raises-90-million-in-series-d</link>
+            <description><![CDATA[Stord, an Atlanta, U.S-based cloud supply chain leader, raised $90 million in Series D funding led by Kleiner Perkins. Lux Capital, D1 Capital, Palm Tree Crew, and existing investors, including BOND, Dynamo Ventures, Founders Fund, Lineage Logistics, and Susa Ventures. In addition, Michael Rubin, Fanatics founder and founder of GSI …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Papaya Global Raises $250 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/papaya-global-raises-250-million-in-series-d</link>
+            <description><![CDATA[Papaya Global which has developed a payroll platform for cross-border management of human resources and employee salaries, raised $250 million in Series D funding, bringing the company’s valuation to $3.7 billion. Papaya’s valuation has increased tenfold since September 2020. The new funding round was led by New York-based global private …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[HomeLight Raises $363 Million in Funding; Valued at $1.6 Billion]]></title>
+            <link>https://www.thesaasnews.com/news/homelight-raises-363-million-in-funding-valued-at-1-6-billion</link>
+            <description><![CDATA[HomeLight, a San Francisco, CA-based real estate technology platform provider, raised $100m in Series D round and $263m in debt financing and valued the company at $1.6 billion. The round was led by Zeev Ventures, with participation from Group 11, STCAP, Menlo Ventures, and Lydia Jett of the SoftBank Vision …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[InBrace Raises $102 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/inbrace-raises-102-million-in-series-d</link>
+            <description><![CDATA[InBrace, an Irvine, California-based AI-powered orthodontics startup, closed an oversubscribed $102 million Series D round co-led by Farallon Capital Management, L.L.C., and Marshall Wace. Additional new investors included funds and accounts managed by BlackRock, Endeavour Vision, MVM Partners, RTW Investments, LP, and Soleus Capital as well as funds affiliated with …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[aPriori Technologies Raises $30 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/apriori-technologies-raises-30-million-in-series-d</link>
+            <description><![CDATA[aPriori Technologies, the leading provider of digital manufacturing software featuring a design for manufacturability (DFM) and cost (DTC) solutions, raised $30 million in Series D round. The round was co-led by Bruce Clarke of PBJ Capital and Gaurav Tewari of Omega Venture Partners, the investment brings the valuation for the …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[LaunchDarkly Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/launchdarkly-raises-200-million-in-series-d</link>
+            <description><![CDATA[LaunchDarkly, a feature management platform for DevOps teams, raised $200 million in Series D led by Lead Edge Capital LLC to scale up its core feature platform. Top Tier Capital Partners and Insight Venture Partners and existing investors Bessemer Venture Partners, Redpoint, Threshold, Uncork Capital, and Bloomberg Beta participated in …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:31 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[FloQast Raises $110 M in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/floqast-raises-110-m-in-series-d</link>
+            <description><![CDATA[FloQast, a Los Angeles CA-based provider of workflow automation software for accountants, raised $110 million in Series D funding at a valuation of $1.2 billion. The round was led by Meritech Capital with participation from Redpoint Ventures, Sapphire Ventures, Coupa Ventures, Insight Partners, Polaris Partners, and Norwest Venture Partners. The …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[ApplyBoard Raises $300 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/applyboard-raises-300-million-in-series-d</link>
+            <description><![CDATA[ApplyBoard, a Kitchener, Ontario, Canada-based online platform for students to access top-quality education, raised $300 million (C$375m) in Series D funding at a post-money valuation of S$3.2 billion ( C$4 billion). The round was led by Ontario Teachers’ Pension Plan Board (Ontario Teachers’), through its Teachers’ Innovation Platform (TIP), with …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[GO1 Raises $200 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/go1-raises-200-million-in-series-d</link>
+            <description><![CDATA[GO1, a Brisbane, Australia-based one of the world’s largest corporate education content hubs for on-demand training and resources, announced it has raised a $200 Million in Series D round that has the company valued at more than USD $1B. The round was led by new investor SoftBank Vision Fund 2, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Shield AI Raises $210 Million Series D Round]]></title>
+            <link>https://www.thesaasnews.com/news/shield-ai-raises-210-million-series-d-round</link>
+            <description><![CDATA[Shield AI a fast-growing defense technology company developing AI and self-driving technologies for aircraft, announced it has raised $210 Million. The round was led by Disruptive, with participation from multiple top-tier venture funds, including existing investor Point72 Ventures which led the Series C round. The Series D investors join a …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[AI pharma startup XtalPi Secured $400 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/ai-pharma-startup-xtalpi-secured-400-million-in-series-d</link>
+            <description><![CDATA[AI pharmaceutical company XtalPi secured USD 400 Million in a Series D financing round led by OrbiMed and RRJ, with investors including Sequoia Capital, Sino Biopharmecutical, and 5Y Capital participating in the deal. The new funds come less than a year after the company raised USD 300 million in a …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Split Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/split-raises-50-million-in-series-d</link>
+            <description><![CDATA[Split, the leading feature delivery and experimentation platform announced $50 million in Series D funding led by Owl Rock, a division of Blue Owl Capital, with participation from Northgate Capital and existing investors including Accel, Lightspeed Venture Partners, Harmony Partners, Microsoft’s venture capital fund M12, Atlassian Ventures, and ServiceNow. This …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Blaize Raises $71 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/blaize-raises-71-million-in-series-d</link>
+            <description><![CDATA[Blaize, an AI computing innovator revolutionizing edge and automotive computing solutions, announced that it raised $71 Million in series D funding. This round was led by Franklin Templeton and Temasek, with participation from Denso and other new and existing backers. The funding will support the acceleration of the product roadmap …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:32 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[People.ai Secures $100 Million In Series D]]></title>
+            <link>https://www.thesaasnews.com/news/people-ai-secures-100-million-in-series-d</link>
+            <description><![CDATA[People.ai, revenue operations (RevOps), and intelligence platform raised $100 million in a Series D funding round, bringing the company to a $1.1 billion valuation. The funding round was co-led by Akkadian Ventures and Mubadala Capital and included additional investors from ICONIQ Capital and Lightspeed Venture Partners. With the extra funding, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Postman Raises $225 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/postman-raises-225-million-in-series-d</link>
+            <description><![CDATA[San Francisco and Bengaluru-based software-as-a-service (SaaS) platform Postman has raised $225 million in a Series D round, at a valuation at $5.6 billion. The round was led by existing investor Insight Partners. New investors like Coatue, Battery Ventures, BOND, DoorDash product leader Gokul Rajaram and Freshworks founder Girish Mathrubootham also …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Suzy Raises $50 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/suzy-raises-50-million-in-series-d</link>
+            <description><![CDATA[Suzy, a leading, rapidly growing research software platform, has raised $50 Million in a Series D round led by H.I.G. Growth Partners. With additional participation from existing investors, including Foundry Group, Rho Ventures, Bertelsmann Digital Media Investments, and Triangle Peak Partners. This investment will enable Suzy to accelerate its product …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Templafy Raises $60 Million in a Series D funding led by Blue Cloud Ventures]]></title>
+            <link>https://www.thesaasnews.com/news/templafy-raises-60-million-in-a-series-d-funding-led-by-blue-cloud-ventures</link>
+            <description><![CDATA[Templafy, a Denmark-born B2B SaaS platform that does business document creation, has raised a $60 million D round of funding led by Blue Cloud Ventures. All previous investors also participated, including Insight Partners, Seed Capital, Dawn Capital, and Damgaard Company. Company: Templafy ApS Raised: $60.0M Round: Series D Funding Month: …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Adverity Raises $120 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/adverity-raises-120-million-in-series-d</link>
+            <description><![CDATA[Adverity, the rapidly growing marketing analytics platform, announced it has closed a $120 Million Series D financing round led by SoftBank Vision Fund 2, with existing investor Sapphire Ventures also participating in the round. Adverity’s mission is to transform marketing performance through intelligent data-driven insights. Company: Adverity GmbH Raised: $120.0M …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Aircall Raises $120 Million for its cloud-based phone system in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/aircall-raises-120-million-for-its-cloud-based-phone-system-in-series-d</link>
+            <description><![CDATA[Aircall, a cloud-based voice platform, has raised $120 million in a Series D funding round, bringing the company's total valuation to more than $1 billion. The company has reached unicorn status, which means it has a valuation above $1 billion — this is the 16th French unicorn. The funding round …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Talkdesk Raises $230 Million Series D, Valuing It at $10 Billion]]></title>
+            <link>https://www.thesaasnews.com/news/talkdesk-raises-230-million-series-d-valuing-it-at-10-billion</link>
+            <description><![CDATA[Talkdesk, a provider of cloud-based contact center software, announced $230 million in new Series D funding. This increases its valuation to $10 billion according to Talkdesk’s company site. The funding came from new investors Whale Rock Capital Management, TI Platform Management, and Alpha Square Group. Additional funding was sourced from …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:34 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Hopin Raises $450 Million  in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/hopin-raised-450-million-funding-to-go-beyond-virtual-in-series-d</link>
+            <description><![CDATA[Hopin, a London-based virtual events unicorn has announced it raised $450M at a $7.75B valuation in Series D funding. The round was co-led by Arena Holdings and Altimeter Capital together with new and existing investors including Adams Street Partners, Untitled Investments, Andreessen Horowitz, DFJ Growth, General Catalyst, GIC, IVP, Northzone, …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:36 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Rakuten Medical Inc. Closes $166 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/rakuten-medical-inc-closes-166-million-series-d</link>
+            <description><![CDATA[Rakuten Medical, Inc., a global clinical-stage biotechnology company focused on developing and commercializing innovative oncology products for multiple indications, has announced the completion of a $166 million Series D preferred stock financing, including $75 million in new capital and the conversion of $91 million of convertible promissory notes, including accrued …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:36 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[FullStory Raises $103 Million Series D, Valuing It at $1.8 Billion]]></title>
+            <link>https://www.thesaasnews.com/news/fullstory-raises-103-million-series-d-valuing-it-at-1-8-billion</link>
+            <description><![CDATA[FullStory, the leader in digital experience intelligence (DXI), announced that it has raised $103 million in growth capital financing via Series D funding. The oversubscribed Series D round was led by Permira's growth fund, which backs leading tech-enabled and digital businesses. Additional investors include all existing institutional investors, including Kleiner …]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:36 -0000</pubDate>
+        </item>
+        
+        <item>
+            <title><![CDATA[Paxos, blockchain startup, raises $300 Million in Series D]]></title>
+            <link>https://www.thesaasnews.com/news/paxos-blockchain-startup-raises-300-million-in-series-d</link>
+            <description><![CDATA[Paxos, blockchain startup, raises $300 Million in Series D]]></description>
+            <pubDate>Wed, 14 Jan 2026 13:22:36 -0000</pubDate>
+        </item>
+        
+  </channel>
+</rss>
